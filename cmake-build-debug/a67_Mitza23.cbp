@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="a67_Mitza23"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a67_Mitza23">
+				<Option output="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/a67_Mitza23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Domain"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/UI"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Validator"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_Mitza23"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="a67_Mitza23/fast">
+				<Option output="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/a67_Mitza23.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Domain"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/UI"/>
+					<Add directory="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Validator"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 a67_Mitza23/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Domain/DynamicArray.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Domain/Tutorial.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Domain/Tutorial.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions/Exception.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions/RepositoryException.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions/ServiceException.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Exceptions/ValidatorException.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository/FileRepository.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository/FileRepository.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository/Repository.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Repository/Repository.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service/ServiceAdmin.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service/ServiceAdmin.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service/ServiceUser.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Service/ServiceUser.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testAll.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testAll.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testFile.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testFile.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testRepo.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testRepo.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testServiceAdmin.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testServiceAdmin.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testServiceUser.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testServiceUser.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testTutorial.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Tests/testTutorial.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/UI/UI.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/UI/UI.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Validator/Validator.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/Validator/Validator.h">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/main.cpp">
+			<Option target="a67_Mitza23"/>
+		</Unit>
+		<Unit filename="D:/Facultate/Sem_2/OOP/OOP_Assignments/a67-Mitza23/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
